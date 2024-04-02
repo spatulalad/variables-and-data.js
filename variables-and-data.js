@@ -23,3 +23,4 @@ let obj = {
 };
 
 console.log(obj.key1);
+
