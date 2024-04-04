@@ -9,8 +9,13 @@ let subTotal = 100;
 let tax = subTotal * 0.07;
 let totalWithTax = tax + subTotal;
 
-primitive: boolean, null, undefined (don't set things to this yourself), number, strings ("blah blah541")
-composite: object
+console.log (totalWithTax);
+
+/*
+//Data Types
+//primitive: boolean, null, undefined, number, strings ("blah blah541")
+//composite: object
+*/
 
 let obj = {
   key1: "value",
